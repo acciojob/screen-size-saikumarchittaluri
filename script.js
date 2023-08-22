@@ -7,7 +7,7 @@
     function updateSizeInfo() {
       const width = window.innerWidth;
       const height = window.innerHeight;
-      h1Tag.textContent = `Width: ${width} Height: ${height}`;
+      h1Tag.textContent = `Width: ${width} and Height: ${height}`;
     }
 
     // Initial update
